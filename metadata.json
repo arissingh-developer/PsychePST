@@ -1,0 +1,6 @@
+{
+  "name": "PsychePST - Mental Skills Assessment & Training",
+  "description": "Comprehensive 10-factor psychological assessment and personalized Psychological Skills Training (PST) program with age-adapted questionnaires and targeted milestone tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
